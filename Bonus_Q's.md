@@ -27,9 +27,10 @@ output file Header Check with prespecified Header values.
 Created application with segregated modules  which eases maintainability and Each function can be changed and integrated. Also every function can be tested separately.
 
 ## Diagnose and tune the application
-    We can calculate executers/cores as per data requirements of application.
 
-   Included exceptions and exists for easy diagnose and resolution of errors.
+  We can calculate executers/cores as per data requirements of application.
+
+  Included exceptions and exists for easy diagnose and resolution of errors.
 
   We can also test with load to analyze which module is taking longer time. That can help in diagnosis of performance issues.
 
